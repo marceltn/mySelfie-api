@@ -1,4 +1,4 @@
-# mySelfie
+# mySelfie-api
 
 ![Build Status](https://codeship.com/projects/62114cb0-0059-0134-57f5-1e95689fe79f/status?branch=master)
 
