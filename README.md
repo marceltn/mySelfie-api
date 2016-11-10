@@ -1,10 +1,24 @@
-# mySelfie-api
+# README
 
-![Build Status](https://codeship.com/projects/62114cb0-0059-0134-57f5-1e95689fe79f/status?branch=master)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-```
-$ git clone git@github.com:marcelnakamine/mySelfie-api.git
-$ cd mySelfie-api
-```
+Things you may want to cover:
 
-a [Ruby on Rails](http://rubyonrails.org/) application
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
